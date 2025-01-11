@@ -269,13 +269,21 @@ body {
 .quote-section {
     max-width: 1280px;
     margin: 0 auto;
-    padding: 25px 24px 48px 24px;
     background-color: #fff;
+    border: 1px solid #dbdbdb;
     border-radius: 16px;
     margin-top: 32px;
     position: relative;
 }
+.quote-section img {
+    position: absolute;
+    top: 25px;
+    left: 24px;
+}
 
+.quote-content {
+    padding: 48px 24px;
+}
 .quote-content .description {
     color: #0E0E0ECC;
     font-size: 16px;
