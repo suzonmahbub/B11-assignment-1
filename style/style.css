@@ -309,6 +309,7 @@ body {
     background-color: #fff;
     padding: 32px;
     border-radius: 16px;
+    margin-top: 24px;
 }
 
 .opinion-matter-content {
@@ -323,7 +324,7 @@ body {
     background-color: #C6E4D6;
     display: flex;
     justify-content: space-between;
-    width: 100%;
+
 }
 .all-opinion-matter-content {
     border: 1px solid #dbdbdb;
@@ -339,7 +340,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 24px 36px;
+    padding: 20px 24px;
 }
 
 .select-option select {
