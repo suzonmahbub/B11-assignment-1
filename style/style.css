@@ -500,6 +500,7 @@ body {
     padding: 40px;
     text-transform: capitalize;
     transition: .3s;
+    cursor: pointer;
 }
 .donate-donation > .amount:hover {
     background-color: #cef1e1;
