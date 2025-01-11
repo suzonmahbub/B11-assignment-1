@@ -461,7 +461,7 @@ body {
 .donate-section {
     max-width: 1280px;
     margin: 0 auto;
-    margin-top: 80px;
+    margin-top: 80px !important;
 }
 
 .donate-section .title {
